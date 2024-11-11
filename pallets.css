@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+}
+td {
+  width: 150px;
+  height: 300px;
+  border: 6px solid white;
+}
+
+#one {
+  background-color: #edae49;
+}
+
+#two {
+  background-color: #d1495b;
+}
+#three {
+  background-color: #00798c;
+}
+#four {
+  background-color: #30638e;
+}
+#five {
+  background-color: #003D5B;
+}
